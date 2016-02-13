@@ -23,6 +23,7 @@ root@b2b639fe64c0:/mnt# exit
 ## Optional
 
 * [make](http://www.gnu.org/software/make/)
+* [Node.js](https://nodejs.org/en/) (for dockerlint)
 
 ## Debian/Ubuntu
 
